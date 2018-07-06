@@ -1,2 +1,2 @@
-# GB-Tutorial
-GameBoy Emulator Tutorial: How to make a GameBoy emulator from start to finish
+# Gameboy Emulator Tutorial
+Coming soon to YouTube!
